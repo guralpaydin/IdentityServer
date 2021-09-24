@@ -1,6 +1,9 @@
 # IdentityServer
 IdentityServer4
 
+**Default Client Information:**
+ Id = 1, Name = "client_1", Password = "client_password_1" 
+
 ### Success Authenticate
 ![AuthenticateSuccess](https://github.com/guralpaydin/IdentityServer/blob/master/ScreenShots/AuthenticationSuccess.PNG)
 ### Fail Authenticate
