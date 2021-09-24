@@ -2,13 +2,13 @@
 IdentityServer4
 
 ### Success Authenticate
-![AuthenticateSuccess](https://github.com/guralpaydin/RoofStacksAuthGuard/blob/master/ScreenShots/Authenticate.PNG)
+![AuthenticateSuccess](https://github.com/guralpaydin/IdentityServer/blob/master/ScreenShots/AuthenticationSuccess.PNG)
 ### Fail Authenticate
-![AuthenticateFail](https://github.com/guralpaydin/RoofStacksAuthGuard/blob/master/ScreenShots/AuthenticateFail.PNG)
+![AuthenticateFail](https://github.com/guralpaydin/IdentityServer/blob/master/ScreenShots/AuthenticationFail.PNG)
 ### Success GetEmployee
-![GetEmployeeSuccess](https://github.com/guralpaydin/RoofStacksAuthGuard/blob/master/ScreenShots/GetEmployeesSuccess.PNG)
-### Fail Authenticate
-![GetEmployeesUnAuthorized](https://github.com/guralpaydin/RoofStacksAuthGuard/blob/master/ScreenShots/GetEmployeesUnAuthorized.PNG)
+![GetEmployeeSuccess](https://github.com/guralpaydin/IdentityServer/blob/master/ScreenShots/EmployeeSuccess.PNG)
+### Fail GetEmployee
+![GetEmployeesUnAuthorized](https://github.com/guralpaydin/IdentityServer/blob/master/ScreenShots/EmployeeFail.PNG)
 
 
 ### Employee Api Methods
